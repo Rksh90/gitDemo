@@ -1,3 +1,4 @@
 ## Demo Project
 
-This is simple readme file .
+This is simple readme file.
+Adding new info to the files 
